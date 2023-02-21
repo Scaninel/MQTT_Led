@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#unwanted files
+.devcontainer/
+build/
+.vscode
+CMakeLists.txt
+Makefile
+sdkconfig
+sdkconfig.ci
+sdkconfig.old
+
